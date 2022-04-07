@@ -176,3 +176,52 @@ img.mid {
     margin-bottom: 3rem;
 }
 
+.blue-background {
+    background-color: white;
+    margin: 7rem;
+}
+
+.blue-box {
+    display:flex;
+    font-size: x-large;
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    gap: 8rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.blue-container {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.blue-header {
+    margin: 5px;
+    font-weight: 900;
+}
+
+.blue-text {
+    opacity: 50%;
+    margin: 5px;
+}
+
+.blue-up {
+    align-self: center;
+    margin: 3rem;
+    color: white;
+    background-color: #3882F6;
+    border-color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #1F2937;
+    color: white;
+    width: 100%;
+}
