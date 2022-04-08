@@ -14,6 +14,8 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
     gap: 3rem;
     flex-wrap: wrap;
     width: 100%;
+    flex-direction: column;
+    align-items: center;
 }
 
 .header {
@@ -44,6 +46,7 @@ a {
 
 .hero {
     display: flex;
+    justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
     width: 70%;
@@ -187,7 +190,6 @@ img.mid {
     color: white;
     background-color: #3882F6;
     border-radius: 10px;
-    flex-wrap: wrap;
     gap: 8rem;
     margin: 1rem;
     padding: 1rem;
