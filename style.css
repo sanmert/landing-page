@@ -57,6 +57,7 @@ a {
     height: 250px;
     margin-bottom: 4rem;
     background-color: grey;
+    width: fit-content;
 }
 
 button {
